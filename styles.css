@@ -1,0 +1,38 @@
+body {
+  background-color: #393E46;
+  color: #4ECCA3;
+}
+
+img {
+  width: 80%;
+}
+
+footer{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+  font-size: 1rem;
+  color: #EEEEEE;
+  padding-top: 20px;
+}
+
+.container {
+  font-family: 'Nanum Brush Script', cursive;
+  font-size: 2rem;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  text-shadow: 5px 0 #232931;
+}
+
+.h1_title {
+  font-family: 'Lobster', cursive;
+  font-size: 7rem;
+  padding: 0;
+  text-align: center;
+  text-shadow: 5px 0 #232931;
+}
+
+.dice {
+  display: inline-block;
+  text-align: center;
+}
